@@ -10,7 +10,9 @@
 ############################################################################################################
 ```
 <details>
-    <summary>Click here to read my YAML profile!</summary>
+    <summary>
+        <strong>Click here to read my YAML profile!</strong>
+    </summary>
 ```yaml
 theletterf:
     personal:
