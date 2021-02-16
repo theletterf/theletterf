@@ -8,7 +8,10 @@
 #  \_| \__,_|_.__/|_|  |_/___|_|\___/  \_| \___|_|  |_|  |_| \____/ \___|_| |_|\___|\__,_|\___|\__|\__|_|  #
 #                                                                                                          #
 ############################################################################################################
-
+```
+<details>
+    <summary>Click here to read my YAML profile!</summary>
+```yaml
 theletterf:
     personal:
         - name: Fabrizio Ferri-Benedetti
@@ -56,3 +59,4 @@ theletterf:
             - Gatsby
             - Vale
 ```
+</details>
