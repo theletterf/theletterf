@@ -13,7 +13,9 @@
     <summary>
         <strong>Click here to read my YAML profile!</strong>
     </summary>
+    
 ```yaml
+
 theletterf:
     personal:
         - name: Fabrizio Ferri-Benedetti
