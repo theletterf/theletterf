@@ -20,7 +20,7 @@ theletterf:
     personal:
         - name: Fabrizio Ferri-Benedetti
         - residence: Barcelona, Spain
-        - pronouns: he/him
+        - pronouns: he/him/they/them
     aboutme: >-
     
         I write.
@@ -36,10 +36,11 @@ theletterf:
     work:
         linkedin: https://www.linkedin.com/in/fabrizioferri/
         current: 
-            - name: Ohpen
-            - role: Lead API Technical Writer
-            - url: www.ohpen.com
+            - name: Splunk
+            - role: Senior Staff Technical Writer
+            - url: https://github.com/signalfx
         past:
+            - Ohpen https://www.ohpen.com
             - New Relic https://github.com/newrelic
             - King https://github.com/king
             - Softonic https://github.com/softonic
