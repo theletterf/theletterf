@@ -11,7 +11,7 @@
 ```
 <details>
     <summary>
-        <strong>Click here to read my YAML profile!</strong>
+        <strong>Click here to read my profile in YAML format!</strong>
     </summary>
     
 ```yaml
