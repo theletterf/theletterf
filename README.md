@@ -38,7 +38,7 @@ theletterf:
         linkedin: https://www.linkedin.com/in/fabrizioferri/
         current: 
             - name: Splunk
-            - role: Senior Staff Technical Writer
+            - role: Principal Technical Writer
             - url: https://github.com/signalfx
         past:
             - Ohpen https://www.ohpen.com
