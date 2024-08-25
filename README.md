@@ -11,8 +11,6 @@
 ```
 
 ![TheLetterF's github stats](https://github-readme-stats.vercel.app/api?username=theletterf&show_icons=true&count_private=true&hide_border=true)
-![TheLetterF's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theletterf&hide=html&langs_count=5)
-</a>
 
 <details>
     <summary>
