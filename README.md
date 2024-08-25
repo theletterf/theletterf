@@ -9,6 +9,18 @@
 #                                                                                                          #
 ############################################################################################################
 ```
+
+<p>
+   <a href="https://www.linkedin.com/in/fabrizioferri/">
+     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+  <a href="https://twitter.com/remoquete">
+    <img alt="Remoquete | Twitter" src="https://img.shields.io/badge/twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+![TheLetterF's github stats](https://github-readme-stats.vercel.app/api?username=theletterf&show_icons=true&count_private=true&hide_border=true)
+
 <details>
     <summary>
         <strong>Click here to read my profile in YAML format!</strong>
