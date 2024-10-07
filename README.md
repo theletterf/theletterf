@@ -28,10 +28,11 @@ theletterf:
         website: https://passo.uno
         linkedin: https://www.linkedin.com/in/fabrizioferri/
         current: 
-            - name: Splunk
-            - role: Principal Technical Writer
-            - url: https://github.com/signalfx
+            - name: Tinybird
+            - role: Documentation Engineer
+            - url: https://www.tinybird.co
         past:
+            - Splunk https://www.splunk.com
             - Ohpen https://www.ohpen.com
             - New Relic https://github.com/newrelic
             - King https://github.com/king
