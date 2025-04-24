@@ -1,15 +1,7 @@
-<img width="759" alt="fbwin" src="https://github.com/user-attachments/assets/ccfeac3d-5257-428c-8910-032300bff440">
-
-<details>
-    <summary>
-        <strong>Click here to read my profile in YAML format!</strong>
-    </summary>
-    
 ```yaml
-
 theletterf:
     personal:
-        - name: Fabrizio Ferri-Benedetti
+        - name: Fabrizio Ferri Benedetti
         - residence: Barcelona, Spain
         - pronouns: he/him/they/them
     aboutme: >-
@@ -28,33 +20,14 @@ theletterf:
         website: https://passo.uno
         linkedin: https://www.linkedin.com/in/fabrizioferri/
         current: 
-            - name: Tinybird
-            - role: Documentation Engineer
-            - url: https://www.tinybird.co
+            - name: Elastic
+            - role: Principal Technical Writer
+            - url: https://www.elastic.co
         past:
+            - Tinybird https://tinybird.co
             - Splunk https://www.splunk.com
             - Ohpen https://www.ohpen.com
             - New Relic https://github.com/newrelic
             - King https://github.com/king
             - Softonic https://github.com/softonic
-        specialties:
-            - Content strategy
-            - Technical writing
-            - UX writing
-            - User experience
-        tech:
-            - git, docs-as-code
-            - Markdown, Asciidoc, rST
-            - XML, YAML, JSON
-            - HTML5, CSS3
-            - PowerShell, Python, Bash
-            - JavaScript, React.js
-        toolchest:
-            - Confluence
-            - Paligo
-            - Hugo
-            - Sphinx
-            - Gatsby
-            - Vale
 ```
-</details>
