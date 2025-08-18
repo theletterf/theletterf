@@ -13,15 +13,9 @@ theletterf:
         url: https://www.elastic.co
     past:
       - name: Tinybird
-        url: https://tinybird.co
       - name: Splunk
-        url: https://www.splunk.com
       - name: Ohpen
-        url: https://www.ohpen.com
       - name: New Relic
-        url: https://github.com/newrelic
       - name: King
-        url: https://github.com/king
       - name: Softonic
-        url: https://github.com/softonic
 ```
