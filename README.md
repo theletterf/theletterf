@@ -1,23 +1,9 @@
-```yaml
-theletterf:
-  personal:
-    - name: Fabrizio Ferri Benedetti
-      residence: Barcelona, Spain
-      pronouns: he/him/they/them
-  work:
-    website: https://passo.uno
-    linkedin: https://www.linkedin.com/in/fabrizioferri/
-    current:
-      - name: Elastic
-        role: Principal Technical Writer
-        url: https://www.elastic.co
-    past:
-      - name: Tinybird
-      - name: Splunk
-      - name: Ohpen
-      - name: New Relic
-      - name: King
-      - name: Softonic
+```text
+ __   __                                        _ _                    _____     _          _ 
+ \ \ / /__  _   _    ___ __ _ _ __     ___ __ _| | |  _ __ ___   ___  |  ___|_ _| |__  _ __(_)
+  \ V / _ \| | | |  / __/ _` | '_ \   / __/ _` | | | | '_ ` _ \ / _ \ | |_ / _` | '_ \| '__| |
+   | | (_) | |_| | | (_| (_| | | | | | (_| (_| | | | | | | | | |  __/ |  _| (_| | |_) | |  | |
+   |_|\___/ \__,_|  \___\__,_|_| |_|  \___\__,_|_|_| |_| |_| |_|\___| |_|  \__,_|_.__/|_|  |_|                                                                                      
 ```
 
 ## Recent Activity
