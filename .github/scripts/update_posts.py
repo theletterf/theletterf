@@ -15,6 +15,7 @@ MAX_POSTS = 5
 MAX_ACTIVITY = 5
 GITHUB_USERNAME = "theletterf"
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")  # Optional, improves rate limits
+EXCLUDED_REPOS = ["theletterf"]  # Repos to exclude from activity feed
 
 # Markers to identify where to insert content
 POSTS_START_MARKER = "<!-- BLOG-POSTS:START -->"
@@ -65,9 +66,10 @@ def fetch_github_activity(username, max_items):
         repos_url = f"https://api.github.com/users/{username}/repos?per_page=100&type=owner&sort=updated"
         repos_response = requests.get(repos_url, headers=headers)
         repos_response.raise_for_status()
-        repos = [r for r in repos_response.json() if not r.get('fork', False)]
+        repos = [r for r in repos_response.json()
+                if not r.get('fork', False) and r['name'] not in EXCLUDED_REPOS]
 
-        print(f"Found {len(repos)} non-fork repositories")
+        print(f"Found {len(repos)} non-fork repositories (excluding {len(EXCLUDED_REPOS)} repos)")
 
         activities = []
 
