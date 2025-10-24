@@ -11,9 +11,9 @@
 ## My personal projects
 
 <!-- GITHUB-ACTIVITY:START -->
-- **[theletterf](https://github.com/theletterf/theletterf)**: [f066d4f](https://github.com/theletterf/theletterf/commit/f066d4f2ac0f7d967e047f2a7407b4c5628303f0) - Update README.md (October 24, 2025)
-- **[theletterf](https://github.com/theletterf/theletterf)**: [a080645](https://github.com/theletterf/theletterf/commit/a080645355fac61a883199c7d2abbb7c43da20e8) - Update README.md (October 24, 2025)
-- **[theletterf](https://github.com/theletterf/theletterf)**: [39867c7](https://github.com/theletterf/theletterf/commit/39867c7c53972aa3984ef7012f88e940d177cb61) - Add dynamic README with blog posts and GitHub activity (October 24, 2025)
 - **[vale-mcp-server](https://github.com/theletterf/vale-mcp-server)**: [731e368](https://github.com/theletterf/vale-mcp-server/commit/731e368a46fc923e127182313a16b56fabd4d81b) - Modify screenshot (October 12, 2025)
 - **[vale-mcp-server](https://github.com/theletterf/vale-mcp-server)**: [3b55d62](https://github.com/theletterf/vale-mcp-server/commit/3b55d62486baad9d8e2bc6425be96c0ea47248f9) - Update README.md (October 12, 2025)
+- **[vale-mcp-server](https://github.com/theletterf/vale-mcp-server)**: [5b72f0b](https://github.com/theletterf/vale-mcp-server/commit/5b72f0b33aa2c8f506229a7ab2b58e4bac2501b6) - Update README.md (October 12, 2025)
+- **[impersonaid](https://github.com/theletterf/impersonaid)**: Released [0.2.0](https://github.com/theletterf/impersonaid/releases/tag/0.2.0) (September 12, 2025)
+- **[impersonaid](https://github.com/theletterf/impersonaid)**: [c6bff17](https://github.com/theletterf/impersonaid/commit/c6bff1745c91acdd21d1287f6e36807b0e9a4ea3) - Merge pull request #5 from theletterf/copilot/fix-4 (September 10, 2025)
 <!-- GITHUB-ACTIVITY:END -->
