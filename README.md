@@ -11,9 +11,9 @@
 ## My personal projects
 
 <!-- GITHUB-ACTIVITY:START -->
-- **[vale-mcp-server](https://github.com/theletterf/vale-mcp-server)**: [9101172](https://github.com/theletterf/vale-mcp-server/commit/91011728caa24de04c5568a451176166d96b5447) - Update README.md (October 29, 2025)
-- **[vale-mcp-server](https://github.com/theletterf/vale-mcp-server)**: [731e368](https://github.com/theletterf/vale-mcp-server/commit/731e368a46fc923e127182313a16b56fabd4d81b) - Modify screenshot (October 12, 2025)
-- **[vale-mcp-server](https://github.com/theletterf/vale-mcp-server)**: [3b55d62](https://github.com/theletterf/vale-mcp-server/commit/3b55d62486baad9d8e2bc6425be96c0ea47248f9) - Update README.md (October 12, 2025)
-- **[impersonaid](https://github.com/theletterf/impersonaid)**: Released [0.2.0](https://github.com/theletterf/impersonaid/releases/tag/0.2.0) (September 12, 2025)
-- **[impersonaid](https://github.com/theletterf/impersonaid)**: [c6bff17](https://github.com/theletterf/impersonaid/commit/c6bff1745c91acdd21d1287f6e36807b0e9a4ea3) - Merge pull request #5 from theletterf/copilot/fix-4 (September 10, 2025)
+- **[vscode-md-link-checker](https://github.com/theletterf/vscode-md-link-checker)**: Released [Release v0.4.0](https://github.com/theletterf/vscode-md-link-checker/releases/tag/v0.4.0) (November 04, 2025)
+- **[vscode-md-link-checker](https://github.com/theletterf/vscode-md-link-checker)**: [bb9ec12](https://github.com/theletterf/vscode-md-link-checker/commit/bb9ec123fd080092f5d11b923e17b6088bef66db) - Merge pull request #6 from theletterf/claude/ignore-custom-protocols-011CUndwhKUSNBB9o3vyPQ7b (November 04, 2025)
+- **[vscode-md-link-checker](https://github.com/theletterf/vscode-md-link-checker)**: [392db89](https://github.com/theletterf/vscode-md-link-checker/commit/392db89fe7c5cd5605e2534941e22b194ed5e24c) - Add support for ignoring custom protocol links (November 04, 2025)
+- **[vscode-md-link-checker](https://github.com/theletterf/vscode-md-link-checker)**: [cb75c99](https://github.com/theletterf/vscode-md-link-checker/commit/cb75c99880cfa47931d287af4c03bc379c97daf7) - Merge pull request #5 from theletterf/claude/improve-error-logging-011CUndwhKUSNBB9o3vyPQ7b (November 04, 2025)
+- **[vscode-md-link-checker](https://github.com/theletterf/vscode-md-link-checker)**: Released [Release v0.2.0](https://github.com/theletterf/vscode-md-link-checker/releases/tag/v0.2.0) (November 04, 2025)
 <!-- GITHUB-ACTIVITY:END -->
