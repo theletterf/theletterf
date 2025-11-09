@@ -11,9 +11,9 @@
 ## My personal projects
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[impersonaid](https://github.com/theletterf/impersonaid)**: [412efd4](https://github.com/theletterf/impersonaid/commit/412efd468e84599aff432a685517ed785015186f) - Merge pull request #6 from manototh/mano/update-axios (November 08, 2025)
 - **[televideo-term](https://github.com/theletterf/televideo-term)**: [eee047c](https://github.com/theletterf/televideo-term/commit/eee047c9f53865daf4ed9b8dd201feed952f2d05) - Update README.md (November 07, 2025)
 - **[televideo-term](https://github.com/theletterf/televideo-term)**: [0f18fc6](https://github.com/theletterf/televideo-term/commit/0f18fc6480911d44bbcb53bb68fe6cbb54bee70e) - Update README to MIT license and add LICENSE file (November 07, 2025)
 - **[televideo-term](https://github.com/theletterf/televideo-term)**: [6befd65](https://github.com/theletterf/televideo-term/commit/6befd65061bf5358efd5f50b1f4caba588a246bb) - Initial commit: Rust-based Televideo CLI (November 07, 2025)
 - **[vscode-md-link-checker](https://github.com/theletterf/vscode-md-link-checker)**: Released [Release v0.4.0](https://github.com/theletterf/vscode-md-link-checker/releases/tag/v0.4.0) (November 04, 2025)
-- **[vscode-md-link-checker](https://github.com/theletterf/vscode-md-link-checker)**: [bb9ec12](https://github.com/theletterf/vscode-md-link-checker/commit/bb9ec123fd080092f5d11b923e17b6088bef66db) - Merge pull request #6 from theletterf/claude/ignore-custom-protocols-011CUndwhKUSNBB9o3vyPQ7b (November 04, 2025)
 <!-- GITHUB-ACTIVITY:END -->
