@@ -1,11 +1,11 @@
 ## Latest blog posts
 
 <!-- BLOG-POSTS:START -->
+- [Code wikis are documentation theater as a service](https://passo.uno/ai-wikis-docs-teather-as-a-service/) - November 15, 2025
 - [You need an AI policy for your docs](https://passo.uno/ai-docs-policy-contributions/) - November 10, 2025
 - [Failing Well: A Practical Guide to Growth for Technical Writers](https://passo.uno/failing-well-wtd-berlin-2025/) - November 06, 2025
 - [Episode II of AI & Docs: MCP and the role of tech writers](https://passo.uno/ai-docs-episode-ii-mcp-servers/) - October 27, 2025
 - [Why I built an MCP server to check my docs (and what it taught me)](https://passo.uno/mcp-server-docs-tooling/) - October 13, 2025
-- [[Podcast] Growing as a technical writer in the AI era](https://passo.uno/podcast-growing-as-tech-writer/) - October 02, 2025
 <!-- BLOG-POSTS:END -->
 
 ## My personal projects
