@@ -11,9 +11,9 @@
 ## My personal projects
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[bandierone](https://github.com/theletterf/bandierone)**: [9c02438](https://github.com/theletterf/bandierone/commit/9c024382342c8771b48253811d17570aa05e385a) - Update README.md (December 08, 2025)
+- **[bandierone](https://github.com/theletterf/bandierone)**: [b344411](https://github.com/theletterf/bandierone/commit/b3444116ccf067951762c33cd735207eafac7e0b) - Update README.md (December 08, 2025)
+- **[bandierone](https://github.com/theletterf/bandierone)**: [516915e](https://github.com/theletterf/bandierone/commit/516915ec15af877ca13da029a0c438fd38eeba25) - Simplify build instructions (December 08, 2025)
 - **[impersonaid](https://github.com/theletterf/impersonaid)**: Released [0.3.0](https://github.com/theletterf/impersonaid/releases/tag/0.3.0) (November 12, 2025)
 - **[televideo-term](https://github.com/theletterf/televideo-term)**: [a26624b](https://github.com/theletterf/televideo-term/commit/a26624b8c72614f4ea5cd7ebe014d4f37c45f9da) - Add text mode (November 09, 2025)
-- **[impersonaid](https://github.com/theletterf/impersonaid)**: [412efd4](https://github.com/theletterf/impersonaid/commit/412efd468e84599aff432a685517ed785015186f) - Merge pull request #6 from manototh/mano/update-axios (November 08, 2025)
-- **[televideo-term](https://github.com/theletterf/televideo-term)**: [eee047c](https://github.com/theletterf/televideo-term/commit/eee047c9f53865daf4ed9b8dd201feed952f2d05) - Update README.md (November 07, 2025)
-- **[televideo-term](https://github.com/theletterf/televideo-term)**: [0f18fc6](https://github.com/theletterf/televideo-term/commit/0f18fc6480911d44bbcb53bb68fe6cbb54bee70e) - Update README to MIT license and add LICENSE file (November 07, 2025)
 <!-- GITHUB-ACTIVITY:END -->
