@@ -9,7 +9,7 @@ import requests
 import os
 from datetime import datetime, timezone
 
-RSS_FEED_URL = "https://passo.uno/posts/index.xml"
+RSS_FEED_URL = "https://passo.uno/index.xml"
 README_PATH = "README.md"
 MAX_POSTS = 5
 MAX_ACTIVITY = 5
