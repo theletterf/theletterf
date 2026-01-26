@@ -1,11 +1,11 @@
 ## Latest blog posts
 
 <!-- BLOG-POSTS:START -->
+- [The four modes of AI-augmented technical writing](https://passo.uno/four-modes-ai-augmented-tech-writing/) - January 25, 2026
 - [To those who fired or didn't hire tech writers because of AI](https://passo.uno/letter-those-who-fired-tech-writers-ai/) - January 12, 2026
 - [Episode IV of AI & Docs: AI tools, automation, and an intentionally offline life](https://passo.uno/episode-iv-ai-docs/) - January 05, 2026
 - [[Experiment] I interviewed Claude and Gemini about my 2025 blog posts](https://passo.uno/interview-claude-gemini-2025/) - December 21, 2025
 - [My day as an augmented technical writer in 2030](https://passo.uno/my-day-tech-writer-2030/) - December 13, 2025
-- [Episode III of AI & Docs: Docs theater and the acceleration paradox](https://passo.uno/episode-iii-ai-docs-podcast/) - December 01, 2025
 <!-- BLOG-POSTS:END -->
 
 ## My personal projects
