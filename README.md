@@ -1,11 +1,11 @@
 ## Latest blog posts
 
 <!-- BLOG-POSTS:START -->
+- [New habits for tech writers in the age of LLMs](https://passo.uno/new-habits-tech-writers-ai-age/) - February 28, 2026
 - [The writing was always the cheap part](https://passo.uno/real-cost-of-documentation/) - February 24, 2026
 - [Episode V of Phase One: Tech comm predictions for 2026](https://passo.uno/episode-v-phase-one-tech-comm-predictions-2026/) - January 26, 2026
 - [The four modes of AI-augmented technical writing](https://passo.uno/four-modes-ai-augmented-tech-writing/) - January 25, 2026
 - [To those who fired or didn't hire tech writers because of AI](https://passo.uno/letter-those-who-fired-tech-writers-ai/) - January 12, 2026
-- [Episode IV of AI & Docs: AI tools, automation, and an intentionally offline life](https://passo.uno/episode-iv-ai-docs/) - January 05, 2026
 <!-- BLOG-POSTS:END -->
 
 ## My personal projects
