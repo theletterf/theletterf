@@ -1,11 +1,11 @@
 ## Latest blog posts
 
 <!-- BLOG-POSTS:START -->
+- [Episode VI of Phase One: Doc testing, skills files, and the guardians of knowledge](https://passo.uno/episode-vi-phase-one-docs-testing-skills/) - March 10, 2026
 - [Skills are docs, and docs need tech writers](https://passo.uno/skills-are-docs/) - March 08, 2026
 - [New habits for tech writers in the age of LLMs](https://passo.uno/new-habits-tech-writers-ai-age/) - February 28, 2026
 - [The writing was always the cheap part](https://passo.uno/real-cost-of-documentation/) - February 24, 2026
 - [Episode V of Phase One: Tech comm predictions for 2026](https://passo.uno/episode-v-phase-one-tech-comm-predictions-2026/) - January 26, 2026
-- [The four modes of AI-augmented technical writing](https://passo.uno/four-modes-ai-augmented-tech-writing/) - January 25, 2026
 <!-- BLOG-POSTS:END -->
 
 ## My personal projects
