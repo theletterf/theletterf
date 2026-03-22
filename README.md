@@ -11,9 +11,9 @@
 ## My personal projects
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[claude-mentor-mode](https://github.com/theletterf/claude-mentor-mode)**: [191317a](https://github.com/theletterf/claude-mentor-mode/commit/191317afb22b9c7b266bbf356826050fb36448c1) - Restructure as valid Claude Code plugin (March 21, 2026)
+- **[claude-mentor-mode](https://github.com/theletterf/claude-mentor-mode)**: [72f8029](https://github.com/theletterf/claude-mentor-mode/commit/72f8029264609a5b7afaf8df3859d9058e1e451f) - Move SKILL.md to skills/mentor/ to match plugin.json structure (March 21, 2026)
+- **[claude-mentor-mode](https://github.com/theletterf/claude-mentor-mode)**: [eafb08c](https://github.com/theletterf/claude-mentor-mode/commit/eafb08c7414a32d696032b9cff26c3d9e89fdcde) - Update plugin.json (March 21, 2026)
 - **[convergence-llm-experiment](https://github.com/theletterf/convergence-llm-experiment)**: [85246c5](https://github.com/theletterf/convergence-llm-experiment/commit/85246c539c852733b2e49a4d3be03f7aeae7d083) - Update README.md (March 07, 2026)
 - **[convergence-llm-experiment](https://github.com/theletterf/convergence-llm-experiment)**: [27bff56](https://github.com/theletterf/convergence-llm-experiment/commit/27bff56d380ec72d89ed990868d9209ac474ba5c) - Initial commit: LLM documentation-code convergence experiment (March 07, 2026)
-- **[llm-interviewer](https://github.com/theletterf/llm-interviewer)**: [d521e22](https://github.com/theletterf/llm-interviewer/commit/d521e22a613c5d0406d4b9e31d7d2c41be80abf3) - Update README.md (December 22, 2025)
-- **[llm-interviewer](https://github.com/theletterf/llm-interviewer)**: [d20be13](https://github.com/theletterf/llm-interviewer/commit/d20be13fad663d767995a1fdfd638fbde9c38921) - Initial commit: LLM Interview Generator (December 22, 2025)
-- **[bandierone](https://github.com/theletterf/bandierone)**: [9c02438](https://github.com/theletterf/bandierone/commit/9c024382342c8771b48253811d17570aa05e385a) - Update README.md (December 08, 2025)
 <!-- GITHUB-ACTIVITY:END -->
