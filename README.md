@@ -1,11 +1,11 @@
 ## Latest blog posts
 
 <!-- BLOG-POSTS:START -->
+- [High fantasy map of tech writing (AI edition)](https://passo.uno/fantasy-map-tech-writing-ai/) - April 11, 2026
 - [In the team of the future, roles are verbs, not nouns](https://passo.uno/docs-team-of-the-future/) - March 22, 2026
 - [Episode VI of Phase One: Doc testing, skills files, and the guardians of knowledge](https://passo.uno/episode-vi-phase-one-docs-testing-skills/) - March 10, 2026
 - [Skills are docs, and docs need tech writers](https://passo.uno/skills-are-docs/) - March 08, 2026
 - [New habits for tech writers in the age of LLMs](https://passo.uno/new-habits-tech-writers-ai-age/) - February 28, 2026
-- [The writing was always the cheap part](https://passo.uno/real-cost-of-documentation/) - February 24, 2026
 <!-- BLOG-POSTS:END -->
 
 ## My personal projects
