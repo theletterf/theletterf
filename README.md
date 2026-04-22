@@ -11,9 +11,9 @@
 ## My personal projects
 
 <!-- GITHUB-ACTIVITY:START -->
-- **[claude-mentor-mode](https://github.com/theletterf/claude-mentor-mode)**: [191317a](https://github.com/theletterf/claude-mentor-mode/commit/191317afb22b9c7b266bbf356826050fb36448c1) - Restructure as valid Claude Code plugin (March 21, 2026)
-- **[claude-mentor-mode](https://github.com/theletterf/claude-mentor-mode)**: [72f8029](https://github.com/theletterf/claude-mentor-mode/commit/72f8029264609a5b7afaf8df3859d9058e1e451f) - Move SKILL.md to skills/mentor/ to match plugin.json structure (March 21, 2026)
-- **[claude-mentor-mode](https://github.com/theletterf/claude-mentor-mode)**: [eafb08c](https://github.com/theletterf/claude-mentor-mode/commit/eafb08c7414a32d696032b9cff26c3d9e89fdcde) - Update plugin.json (March 21, 2026)
-- **[convergence-llm-experiment](https://github.com/theletterf/convergence-llm-experiment)**: [85246c5](https://github.com/theletterf/convergence-llm-experiment/commit/85246c539c852733b2e49a4d3be03f7aeae7d083) - Update README.md (March 07, 2026)
-- **[convergence-llm-experiment](https://github.com/theletterf/convergence-llm-experiment)**: [27bff56](https://github.com/theletterf/convergence-llm-experiment/commit/27bff56d380ec72d89ed990868d9209ac474ba5c) - Initial commit: LLM documentation-code convergence experiment (March 07, 2026)
+- **[medievalizer](https://github.com/theletterf/medievalizer)**: [9090ee4](https://github.com/theletterf/medievalizer/commit/9090ee4b77343bbbf5929e18dcd539316e32af2e) - Update README.md (April 21, 2026)
+- **[medievalizer](https://github.com/theletterf/medievalizer)**: Released [v1.2.1](https://github.com/theletterf/medievalizer/releases/tag/v1.2.1) (April 21, 2026)
+- **[medievalizer](https://github.com/theletterf/medievalizer)**: [1c60155](https://github.com/theletterf/medievalizer/commit/1c6015595ef8844cf52d92bbabd20ebac5d8e0ff) - Add required browser-access header for Anthropic API (April 21, 2026)
+- **[medievalizer](https://github.com/theletterf/medievalizer)**: Released [v1.2.0](https://github.com/theletterf/medievalizer/releases/tag/v1.2.0) (April 21, 2026)
+- **[medievalizer](https://github.com/theletterf/medievalizer)**: [be4b3b5](https://github.com/theletterf/medievalizer/commit/be4b3b566dc913c5af2dfe4aa1ce1f4451af3dcc) - Fix syntax error and improve loading UX (April 21, 2026)
 <!-- GITHUB-ACTIVITY:END -->
