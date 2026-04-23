@@ -11,9 +11,9 @@
 ## My personal projects
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[gh-aw-skill-smoke-test](https://github.com/theletterf/gh-aw-skill-smoke-test)**: [fa998af](https://github.com/theletterf/gh-aw-skill-smoke-test/commit/fa998af813f49bec9d086d7b16f7cfc6f1658d0f) - Turn the smoke test into a PR review check. (April 22, 2026)
+- **[gh-aw-skill-smoke-test](https://github.com/theletterf/gh-aw-skill-smoke-test)**: [a30875b](https://github.com/theletterf/gh-aw-skill-smoke-test/commit/a30875b2ca08798eab2757b826664a1525a53205) - Update compiled lock file for strengthened smoke test. (April 22, 2026)
+- **[gh-aw-skill-smoke-test](https://github.com/theletterf/gh-aw-skill-smoke-test)**: [3e205b5](https://github.com/theletterf/gh-aw-skill-smoke-test/commit/3e205b5ce4a13ef406b258400cae823975580d9e) - Strengthen smoke test verification. (April 22, 2026)
 - **[medievalizer](https://github.com/theletterf/medievalizer)**: [9090ee4](https://github.com/theletterf/medievalizer/commit/9090ee4b77343bbbf5929e18dcd539316e32af2e) - Update README.md (April 21, 2026)
 - **[medievalizer](https://github.com/theletterf/medievalizer)**: Released [v1.2.1](https://github.com/theletterf/medievalizer/releases/tag/v1.2.1) (April 21, 2026)
-- **[medievalizer](https://github.com/theletterf/medievalizer)**: [1c60155](https://github.com/theletterf/medievalizer/commit/1c6015595ef8844cf52d92bbabd20ebac5d8e0ff) - Add required browser-access header for Anthropic API (April 21, 2026)
-- **[medievalizer](https://github.com/theletterf/medievalizer)**: Released [v1.2.0](https://github.com/theletterf/medievalizer/releases/tag/v1.2.0) (April 21, 2026)
-- **[medievalizer](https://github.com/theletterf/medievalizer)**: [be4b3b5](https://github.com/theletterf/medievalizer/commit/be4b3b566dc913c5af2dfe4aa1ce1f4451af3dcc) - Fix syntax error and improve loading UX (April 21, 2026)
 <!-- GITHUB-ACTIVITY:END -->
