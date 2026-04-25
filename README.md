@@ -11,9 +11,9 @@
 ## My personal projects
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[gh-aw-skill-smoke-test](https://github.com/theletterf/gh-aw-skill-smoke-test)**: [524f93b](https://github.com/theletterf/gh-aw-skill-smoke-test/commit/524f93ba9fa87ee321ade8f61911f73fa5fd4b03) - Recompile smoke test with gh-aw v0.70.0. (April 24, 2026)
+- **[gh-aw-skill-smoke-test](https://github.com/theletterf/gh-aw-skill-smoke-test)**: [579721b](https://github.com/theletterf/gh-aw-skill-smoke-test/commit/579721bb5ad4fe19c89b8cc5641d90ec178f1b12) - Recompile smoke test with gh-aw v0.71.0. (April 24, 2026)
 - **[gh-aw-skill-smoke-test](https://github.com/theletterf/gh-aw-skill-smoke-test)**: [fa998af](https://github.com/theletterf/gh-aw-skill-smoke-test/commit/fa998af813f49bec9d086d7b16f7cfc6f1658d0f) - Turn the smoke test into a PR review check. (April 22, 2026)
-- **[gh-aw-skill-smoke-test](https://github.com/theletterf/gh-aw-skill-smoke-test)**: [a30875b](https://github.com/theletterf/gh-aw-skill-smoke-test/commit/a30875b2ca08798eab2757b826664a1525a53205) - Update compiled lock file for strengthened smoke test. (April 22, 2026)
-- **[gh-aw-skill-smoke-test](https://github.com/theletterf/gh-aw-skill-smoke-test)**: [3e205b5](https://github.com/theletterf/gh-aw-skill-smoke-test/commit/3e205b5ce4a13ef406b258400cae823975580d9e) - Strengthen smoke test verification. (April 22, 2026)
 - **[medievalizer](https://github.com/theletterf/medievalizer)**: [9090ee4](https://github.com/theletterf/medievalizer/commit/9090ee4b77343bbbf5929e18dcd539316e32af2e) - Update README.md (April 21, 2026)
 - **[medievalizer](https://github.com/theletterf/medievalizer)**: Released [v1.2.1](https://github.com/theletterf/medievalizer/releases/tag/v1.2.1) (April 21, 2026)
 <!-- GITHUB-ACTIVITY:END -->
