@@ -11,9 +11,9 @@
 ## My personal projects
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[hugo-win31](https://github.com/theletterf/hugo-win31)**: [bf003a0](https://github.com/theletterf/hugo-win31/commit/bf003a0cf848bb03a565a3cc0eb093341eefbc90) - Use absolute Pages build output path (April 27, 2026)
+- **[hugo-win31](https://github.com/theletterf/hugo-win31)**: [7d63904](https://github.com/theletterf/hugo-win31/commit/7d63904341ec0149de489e08dbcf4057123f351a) - Fix Pages artifact path (April 27, 2026)
+- **[hugo-win31](https://github.com/theletterf/hugo-win31)**: [8f46242](https://github.com/theletterf/hugo-win31/commit/8f46242f96d46af9eaff8ede47de02e6b006dfc6) - Add GitHub Pages demo deployment (April 27, 2026)
+- **[gh-aw-skill-smoke-test](https://github.com/theletterf/gh-aw-skill-smoke-test)**: [f1150a9](https://github.com/theletterf/gh-aw-skill-smoke-test/commit/f1150a9bae233ed795988a6b74556c5f8176520a) - Recompile smoke test with gh-aw v0.71.1. (April 27, 2026)
 - **[gh-aw-skill-smoke-test](https://github.com/theletterf/gh-aw-skill-smoke-test)**: [524f93b](https://github.com/theletterf/gh-aw-skill-smoke-test/commit/524f93ba9fa87ee321ade8f61911f73fa5fd4b03) - Recompile smoke test with gh-aw v0.70.0. (April 24, 2026)
-- **[gh-aw-skill-smoke-test](https://github.com/theletterf/gh-aw-skill-smoke-test)**: [579721b](https://github.com/theletterf/gh-aw-skill-smoke-test/commit/579721bb5ad4fe19c89b8cc5641d90ec178f1b12) - Recompile smoke test with gh-aw v0.71.0. (April 24, 2026)
-- **[gh-aw-skill-smoke-test](https://github.com/theletterf/gh-aw-skill-smoke-test)**: [fa998af](https://github.com/theletterf/gh-aw-skill-smoke-test/commit/fa998af813f49bec9d086d7b16f7cfc6f1658d0f) - Turn the smoke test into a PR review check. (April 22, 2026)
-- **[medievalizer](https://github.com/theletterf/medievalizer)**: [9090ee4](https://github.com/theletterf/medievalizer/commit/9090ee4b77343bbbf5929e18dcd539316e32af2e) - Update README.md (April 21, 2026)
-- **[medievalizer](https://github.com/theletterf/medievalizer)**: Released [v1.2.1](https://github.com/theletterf/medievalizer/releases/tag/v1.2.1) (April 21, 2026)
 <!-- GITHUB-ACTIVITY:END -->
