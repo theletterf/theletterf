@@ -1,11 +1,11 @@
 ## Latest blog posts
 
 <!-- BLOG-POSTS:START -->
+- [Behind the Docs: The Future of Docs Is More Human Than You Think](https://passo.uno/behind-the-docs-future-of-docs-human/) - May 12, 2026
 - [What I've learned designing agentic workflows for docs](https://passo.uno/agentic-workflows-for-docs/) - May 11, 2026
 - [Most vibe-coded tools are not for you](https://passo.uno/tools-slop-is-a-problem/) - May 06, 2026
 - [What makes docs beautiful?](https://passo.uno/what-makes-docs-beautiful/) - April 20, 2026
 - [Episode VII of Phase One: Skills, agentic workflows, and the tinker's burden](https://passo.uno/episode-vii-phase-one-agent-skills-ai-workflows/) - April 13, 2026
-- [High fantasy map of tech writing (AI edition)](https://passo.uno/fantasy-map-tech-writing-ai/) - April 11, 2026
 <!-- BLOG-POSTS:END -->
 
 ## My personal projects
