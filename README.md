@@ -1,11 +1,11 @@
 ## Latest blog posts
 
 <!-- BLOG-POSTS:START -->
+- [Feed the machines, then guide the humans](https://passo.uno/tech-writing-role-split/) - June 12, 2026
 - [Fine-tuning an LLM to write docs like it's 1995](https://passo.uno/fine-tuning-docs-llm/) - June 01, 2026
 - [Episode VIII of Phase One: Judging beautiful docs, AI fatigue, and tool slop](https://passo.uno/episode-viii-phase-one-judging-beautiful-docs-ai-fatigue-tool-slop/) - June 01, 2026
 - [Behind the Docs: The Future of Docs Is More Human Than You Think](https://passo.uno/behind-the-docs-future-of-docs-human/) - May 12, 2026
 - [What I've learned designing agentic workflows for docs](https://passo.uno/agentic-workflows-for-docs/) - May 11, 2026
-- [Most vibe-coded tools are not for you](https://passo.uno/tools-slop-is-a-problem/) - May 06, 2026
 <!-- BLOG-POSTS:END -->
 
 ## My personal projects
