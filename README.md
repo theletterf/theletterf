@@ -11,9 +11,9 @@
 ## My personal projects
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[ai-format-benchmark](https://github.com/theletterf/ai-format-benchmark)**: [3422cd0](https://github.com/theletterf/ai-format-benchmark/commit/3422cd02dc1a69a0af473db15ad55f79c88a80f7) - Truncate issue body: only first doc gets judge reasoning (June 16, 2026)
+- **[ai-format-benchmark](https://github.com/theletterf/ai-format-benchmark)**: [95f34a3](https://github.com/theletterf/ai-format-benchmark/commit/95f34a30688ef334df77b9a2ad5ac4bcff94406b) - Multi-doc benchmark: 3 docs, same model for answer+judge, doclang fixtures (June 16, 2026)
+- **[ai-format-benchmark](https://github.com/theletterf/ai-format-benchmark)**: [c4875cd](https://github.com/theletterf/ai-format-benchmark/commit/c4875cd72685f9e5cd2d817016976b04ae7b0ce7) - Fix LiteLLM model IDs: add llm-gateway/ prefix (June 16, 2026)
 - **[defensive-hook](https://github.com/theletterf/defensive-hook)**: [179520c](https://github.com/theletterf/defensive-hook/commit/179520c59a472c2a0d7af55781b2dd93a5bda4fb) - Improve README opening (May 28, 2026)
 - **[defensive-hook](https://github.com/theletterf/defensive-hook)**: [cc9c6c3](https://github.com/theletterf/defensive-hook/commit/cc9c6c30a59c193c57a1fd869bb239eb25bfcf2a) - Add demo video to README (May 28, 2026)
-- **[defensive-hook](https://github.com/theletterf/defensive-hook)**: [0c7ba4e](https://github.com/theletterf/defensive-hook/commit/0c7ba4e6d7aa606ec1bab61cafa1c6ae78e8e07a) - Rename to defensive-hook; generalize away from Chewbacca (May 28, 2026)
-- **[docs-actions-caller](https://github.com/theletterf/docs-actions-caller)**: [b1e7b43](https://github.com/theletterf/docs-actions-caller/commit/b1e7b435f94ffed9456f66e05c20daf279f10e9d) - Initial setup: caller workflows + test doc (May 21, 2026)
-- **[claude64](https://github.com/theletterf/claude64)**: [b1c7fae](https://github.com/theletterf/claude64/commit/b1c7fae5f63807a89909513b9f75069940582f90) - Update README.md (May 15, 2026)
 <!-- GITHUB-ACTIVITY:END -->
