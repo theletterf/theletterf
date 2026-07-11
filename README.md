@@ -11,9 +11,9 @@
 ## My personal projects
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[llmify-prototype](https://github.com/theletterf/llmify-prototype)**: [2aab5ac](https://github.com/theletterf/llmify-prototype/commit/2aab5ace62fa3a7aa2a2e9739bf77dcdbbed4fe9) - Add semantic document compression skill (July 10, 2026)
+- **[llmify-prototype](https://github.com/theletterf/llmify-prototype)**: [b1eb019](https://github.com/theletterf/llmify-prototype/commit/b1eb0194a67f922acf2005b64963b9a5c0669e7c) - Run full-context compression benchmarks (July 10, 2026)
+- **[llmify-prototype](https://github.com/theletterf/llmify-prototype)**: [1b49695](https://github.com/theletterf/llmify-prototype/commit/1b496958bacd45621b210f6235d9bebd45a97b86) - Detect truncated profile generations (July 10, 2026)
 - **[ai-format-benchmark](https://github.com/theletterf/ai-format-benchmark)**: [3422cd0](https://github.com/theletterf/ai-format-benchmark/commit/3422cd02dc1a69a0af473db15ad55f79c88a80f7) - Truncate issue body: only first doc gets judge reasoning (June 16, 2026)
 - **[ai-format-benchmark](https://github.com/theletterf/ai-format-benchmark)**: [95f34a3](https://github.com/theletterf/ai-format-benchmark/commit/95f34a30688ef334df77b9a2ad5ac4bcff94406b) - Multi-doc benchmark: 3 docs, same model for answer+judge, doclang fixtures (June 16, 2026)
-- **[ai-format-benchmark](https://github.com/theletterf/ai-format-benchmark)**: [c4875cd](https://github.com/theletterf/ai-format-benchmark/commit/c4875cd72685f9e5cd2d817016976b04ae7b0ce7) - Fix LiteLLM model IDs: add llm-gateway/ prefix (June 16, 2026)
-- **[defensive-hook](https://github.com/theletterf/defensive-hook)**: [179520c](https://github.com/theletterf/defensive-hook/commit/179520c59a472c2a0d7af55781b2dd93a5bda4fb) - Improve README opening (May 28, 2026)
-- **[defensive-hook](https://github.com/theletterf/defensive-hook)**: [cc9c6c3](https://github.com/theletterf/defensive-hook/commit/cc9c6c30a59c193c57a1fd869bb239eb25bfcf2a) - Add demo video to README (May 28, 2026)
 <!-- GITHUB-ACTIVITY:END -->
