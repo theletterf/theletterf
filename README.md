@@ -1,11 +1,11 @@
 ## Latest blog posts
 
 <!-- BLOG-POSTS:START -->
+- [Episode IX of Phase One: Orchestrating docs, AI accuracy, and the pipeline writer](https://passo.uno/episode-ix-phase-one-orchestrating-docs-anthropic/) - August 02, 2026
 - [Advice for tech writers on a job hunt in the AI age](https://passo.uno/job-hunt-tech-writers-ai/) - July 29, 2026
 - [You can write in LLMese, but you don’t have to](https://passo.uno/write-docs-llms-language/) - July 12, 2026
 - [Feed the machines, then guide the humans](https://passo.uno/tech-writing-role-split/) - June 12, 2026
 - [Fine-tuning an LLM to write docs like it's 1995](https://passo.uno/fine-tuning-docs-llm/) - June 01, 2026
-- [Episode VIII of Phase One: Judging beautiful docs, AI fatigue, and tool slop](https://passo.uno/episode-viii-phase-one-judging-beautiful-docs-ai-fatigue-tool-slop/) - June 01, 2026
 <!-- BLOG-POSTS:END -->
 
 ## My personal projects
