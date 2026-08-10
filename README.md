@@ -11,9 +11,9 @@
 ## My personal projects
 
 <!-- GITHUB-ACTIVITY:START -->
-- **[sevenactionmodel](https://github.com/theletterf/sevenactionmodel)**: [6f28419](https://github.com/theletterf/sevenactionmodel/commit/6f2841946c7283bbb61adc042787ad7d6ded594a) - Match language picker to navigation size (August 08, 2026)
-- **[sevenactionmodel](https://github.com/theletterf/sevenactionmodel)**: [f6aa3a0](https://github.com/theletterf/sevenactionmodel/commit/f6aa3a0d092316c479e6b7938577ceaab2225485) - Make the language selector compact (August 08, 2026)
-- **[sevenactionmodel](https://github.com/theletterf/sevenactionmodel)**: [0a8c8a7](https://github.com/theletterf/sevenactionmodel/commit/0a8c8a74b4d0874c584802bcbc30f950b164921b) - Add GitHub button beside theme control (August 08, 2026)
+- **[sevenactionmodel](https://github.com/theletterf/sevenactionmodel)**: [983a156](https://github.com/theletterf/sevenactionmodel/commit/983a1561c6cefd7458756e03b1857fbbf3c9b907) - Merge pull request #7 from theletterf/dependabot/github_actions/actions/checkout-7.0.1 (August 09, 2026)
+- **[sevenactionmodel](https://github.com/theletterf/sevenactionmodel)**: [b9cd332](https://github.com/theletterf/sevenactionmodel/commit/b9cd332709708f0a513a64856ce9e4039565b511) - Merge pull request #6 from theletterf/dependabot/github_actions/errata-ai/vale-action-3.0.0 (August 09, 2026)
+- **[sevenactionmodel](https://github.com/theletterf/sevenactionmodel)**: [b3a8306](https://github.com/theletterf/sevenactionmodel/commit/b3a83064a8ffbf82aaefb00479939d924daec225) - Merge pull request #5 from theletterf/dependabot/github_actions/cloudflare/wrangler-action-4.0.0 (August 09, 2026)
 - **[llmify-prototype](https://github.com/theletterf/llmify-prototype)**: [2aab5ac](https://github.com/theletterf/llmify-prototype/commit/2aab5ace62fa3a7aa2a2e9739bf77dcdbbed4fe9) - Add semantic document compression skill (July 10, 2026)
 - **[llmify-prototype](https://github.com/theletterf/llmify-prototype)**: [b1eb019](https://github.com/theletterf/llmify-prototype/commit/b1eb0194a67f922acf2005b64963b9a5c0669e7c) - Run full-context compression benchmarks (July 10, 2026)
 <!-- GITHUB-ACTIVITY:END -->
