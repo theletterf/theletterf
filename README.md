@@ -11,9 +11,9 @@
 ## My personal projects
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[sevenactionmodel](https://github.com/theletterf/sevenactionmodel)**: [3bf943e](https://github.com/theletterf/sevenactionmodel/commit/3bf943e55f0e130e40f5e9f966c9785e6c6e61bc) - Merge pull request #9 from theletterf/claude/add-goatcounter-tracker-kb0eio (August 31, 2026)
+- **[sevenactionmodel](https://github.com/theletterf/sevenactionmodel)**: [44717da](https://github.com/theletterf/sevenactionmodel/commit/44717da87687a9be69a90e2e1e07f220f7d11a76) - Count page views with GoatCounter (August 31, 2026)
 - **[benchmark-agent-instruct](https://github.com/theletterf/benchmark-agent-instruct)**: [4e103c5](https://github.com/theletterf/benchmark-agent-instruct/commit/4e103c502b551beaf95661cac5ee2c9f034e5036) - Document benchmark phases and Pinecone pilot (August 17, 2026)
 - **[benchmark-agent-instruct](https://github.com/theletterf/benchmark-agent-instruct)**: [19684f2](https://github.com/theletterf/benchmark-agent-instruct/commit/19684f257474abd93072714394a036593e02f52d) - Delete README.md (August 17, 2026)
 - **[benchmark-agent-instruct](https://github.com/theletterf/benchmark-agent-instruct)**: [82a254b](https://github.com/theletterf/benchmark-agent-instruct/commit/82a254b7a0fce01e80223995bb9823638d5b6289) - Merge pull request #1 from theletterf/agent/publish-benchmark-phases (August 17, 2026)
-- **[sevenactionmodel](https://github.com/theletterf/sevenactionmodel)**: [daf91a0](https://github.com/theletterf/sevenactionmodel/commit/daf91a071b96bc74f85c58f2a44e2612a5670b46) - Merge pull request #8 from theletterf/claude/7act-rationale-images-7e08k4 (August 11, 2026)
-- **[sevenactionmodel](https://github.com/theletterf/sevenactionmodel)**: [f3cd8ca](https://github.com/theletterf/sevenactionmodel/commit/f3cd8cad465242c902184558956f3a4a03882b74) - fix: allow the rationale illustrations through the CSP (August 11, 2026)
 <!-- GITHUB-ACTIVITY:END -->
