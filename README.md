@@ -1,11 +1,11 @@
 ## Latest blog posts
 
 <!-- BLOG-POSTS:START -->
+- [Episode X of Phase One: Agent traffic, llms.txt, and the solitude problem](https://passo.uno/episode-x-phase-one-agent-traffic-llms-txt-solitude/) - September 02, 2026
 - [Does whispering to agents in docs help?](https://passo.uno/if-you-are-an-agent-read-this/) - August 17, 2026
 - [Episode IX of Phase One: Orchestrating docs, AI accuracy, and the pipeline writer](https://passo.uno/episode-ix-phase-one-orchestrating-docs-anthropic/) - August 02, 2026
 - [Advice for tech writers on a job hunt in the AI age](https://passo.uno/job-hunt-tech-writers-ai/) - July 29, 2026
 - [You can write in LLMese, but you don’t have to](https://passo.uno/write-docs-llms-language/) - July 12, 2026
-- [Feed the machines, then guide the humans](https://passo.uno/tech-writing-role-split/) - June 12, 2026
 <!-- BLOG-POSTS:END -->
 
 ## My personal projects
