@@ -11,9 +11,9 @@
 ## My personal projects
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[comic-chat-ai](https://github.com/theletterf/comic-chat-ai)**: [052419c](https://github.com/theletterf/comic-chat-ai/commit/052419ccf9a562573bff9e55f2b3539290edcb1f) - Update README.md (September 16, 2026)
+- **[comic-chat-ai](https://github.com/theletterf/comic-chat-ai)**: Released [Comic Chat for AI v0.1.0](https://github.com/theletterf/comic-chat-ai/releases/tag/v0.1.0) (September 16, 2026)
+- **[comic-chat-ai](https://github.com/theletterf/comic-chat-ai)**: [ad9ec39](https://github.com/theletterf/comic-chat-ai/commit/ad9ec39c18290584392616f4264029294b99b875) - Initial release of Comic Chat for AI (September 16, 2026)
 - **[sevenactionmodel](https://github.com/theletterf/sevenactionmodel)**: [ad6093e](https://github.com/theletterf/sevenactionmodel/commit/ad6093e893267ded7caae425f480965bf7c1a479) - Add European Portuguese (pt-pt) locale (#11) (September 07, 2026)
 - **[sevenactionmodel](https://github.com/theletterf/sevenactionmodel)**: [5e9fa16](https://github.com/theletterf/sevenactionmodel/commit/5e9fa1693f7575f7e20f31243efb0ec5f232f476) - Merge main into draft/add-pt-pt-locale, keep PT register note (September 07, 2026)
-- **[sevenactionmodel](https://github.com/theletterf/sevenactionmodel)**: [0f9be25](https://github.com/theletterf/sevenactionmodel/commit/0f9be2575ae833304c8d2390acda3860b1988fde) - Merge pull request #10 from peixe-homedev/draft/rename-pt-to-pt-br (September 07, 2026)
-- **[benchmark-agent-instruct](https://github.com/theletterf/benchmark-agent-instruct)**: [4e103c5](https://github.com/theletterf/benchmark-agent-instruct/commit/4e103c502b551beaf95661cac5ee2c9f034e5036) - Document benchmark phases and Pinecone pilot (August 17, 2026)
-- **[benchmark-agent-instruct](https://github.com/theletterf/benchmark-agent-instruct)**: [19684f2](https://github.com/theletterf/benchmark-agent-instruct/commit/19684f257474abd93072714394a036593e02f52d) - Delete README.md (August 17, 2026)
 <!-- GITHUB-ACTIVITY:END -->
