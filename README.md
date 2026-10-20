@@ -1,11 +1,11 @@
 ## Latest blog posts
 
 <!-- BLOG-POSTS:START -->
+- [Episode XI of Phase One: Why docs still need an owner, with CT Smith](https://passo.uno/episode-xi-phase-one-ct-smith-wtfm-docs-owner/) - October 19, 2026
 - [Tech needs humanists more than ever](https://passo.uno/tech-needs-humanists-more-than-ever/) - September 07, 2026
 - [Episode X of Phase One: Agent traffic, llms.txt, and the solitude problem](https://passo.uno/episode-x-phase-one-agent-traffic-llms-txt-solitude/) - September 02, 2026
 - [Does whispering to agents in docs help?](https://passo.uno/if-you-are-an-agent-read-this/) - August 17, 2026
 - [Episode IX of Phase One: Orchestrating docs, AI accuracy, and the pipeline writer](https://passo.uno/episode-ix-phase-one-orchestrating-docs-anthropic/) - August 02, 2026
-- [Advice for tech writers on a job hunt in the AI age](https://passo.uno/job-hunt-tech-writers-ai/) - July 29, 2026
 <!-- BLOG-POSTS:END -->
 
 ## My personal projects
