@@ -1,11 +1,11 @@
 ## Latest blog posts
 
 <!-- BLOG-POSTS:START -->
+- [Rethinking the tech writing portfolio in the AI age](https://passo.uno/tech-writing-portfolio-howto/) - October 29, 2026
 - [Conventions used on this site](https://passo.uno/conventions/) - October 28, 2026
 - [Living House: Adaptive UI and docs using in-browser inference](https://passo.uno/adaptive-ui-docs-using-llms/) - October 23, 2026
 - [Episode XI of Phase One: Why docs still need an owner, with CT Smith](https://passo.uno/episode-xi-phase-one-ct-smith-wtfm-docs-owner/) - October 19, 2026
 - [Tech needs humanists more than ever](https://passo.uno/tech-needs-humanists-more-than-ever/) - September 07, 2026
-- [Episode X of Phase One: Agent traffic, llms.txt, and the solitude problem](https://passo.uno/episode-x-phase-one-agent-traffic-llms-txt-solitude/) - September 02, 2026
 <!-- BLOG-POSTS:END -->
 
 ## My personal projects
